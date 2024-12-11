@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "/images/the-last-of-us-part-ii-.webp",
+    "titulo": "The Last of Us: Part II",
+    "conteudo": "The Last Of Us: Part II se mostrou um sucesso em nível mundial. Durante a sua primeira semana de lançamento, o jogo vendeu mais de quatro milhões de cópias. O êxito do game acabou rendendo memes, além de inúmeras reviews, pela Internet, angariando uma nota alta no site de crítica especializada Metacritic.",
+    "data": "2020-12-26"
+  },
+  {
+    "id": 2,
+    "image": "/images/hades-wallpaper-01.webp",
+    "titulo": "Hades",
+    "conteudo": "O título da Supergiant Games, disponível para macOS, PC e Nintendo Switch, teve um lançamento discreto, mas rapidamente se tornou um dos nomes mais notórios deste ano. Atualmente, o game é um dos mais bem avaliados de 2020 no site Metacritic, e foi sucesso de indicações no The Game Awards 2020. Ao todo Hades disputou oito categorias, incluindo o 'Jogo do Ano'. No fim, conquistou os prêmios de 'Melhor Jogo de Ação' e 'Melhor Jogo Independente'. Já no Brazil Game Awards 2020, além de ganhar novamente na categoria melhor jogo indie, o título saiu vitorioso na disputa pelo 'Melhor Jogo Original'.",
+    "data": "2020-12-26"
+  },
+  {
+    "id": 3,
+    "image": "/images/cod-wz.webp",
+    "titulo": "Call of Duty: Warzone Caldera",
+    "conteudo": "O Battle Royale gratuito da Activision é outro colecionador de números neste 2020. Nas suas primeiras 24 horas, o jogo bateu seis milhões de players. Posteriormente, em quatro dias, o game reuniu 15 milhões de jogadores ao redor do globo. No décimo dia após o lançamento, conseguiu alcançar 30 milhões de usuários. As conquistas, no entanto, não ficaram restritas apenas aos primeiros momentos do game. Recentemente, Call of Duty: Warzone ultrapassou 75 milhões de players. O jogo, que pode ser baixado no PC, PS4 e Xbox One, foi indicado para as categorias 'Melhor Jogo Contínuo' e 'Melhor Multiplayer' no The Game Awards 2020.",
+    "data": "2020-12-26"
+  },
+  {
+    "id": 4,
+    "image": "/images/doomEternal.jpeg",
+    "titulo": "Doom Eternal",
+    "conteudo": "A série “Doom” é um das mais clássicas da história dos games - sua primeira versão foi lançada em 1993. A sequência “Doom Eternal” foi revelada na E3 de 2018 e recebeu cenas de gameplay nas Quakecon de 2018 e 2019 e na E3 de 2019. Erik Kain, repórter da FORBES, declarou que o jogo está com ótimos gráficos e criando altas expectativas. O continuação mantém a fórmula do sucesso: um personagem em primeira pessoa usando armas futuristas para lutar contra a invasão de demônios e criaturas assustadoras. Dessa vez, o local escolhido foi o planeta Terra, mas outros lugares também serão visitados, como cenários do jogo original, para gerar a nostalgia esperada pelos fãs da série. A Bethesda Softworks está trabalhando em “Doom Eternal” e anunciou o lançamento para 20 de março nas seguintes plataformas: Playstation 4, Xbox One, Switch, Stadia e PC. Nenhum classificação indicativa foi divulgada.",
+    "data": "2020-01-17"
+  },
+  {
+    "id": 5,
+    "image": "/images/res3.avif",
+    "titulo": "Resident Evil 3",
+    "conteudo": "Nos últimos tempos, a Capcom tem apostado no relançamento de jogos consagrados com gráficos mais desenvolvidos. Essa é a fórmula usada em “Resident Evil 3: Remake” que, em um trailer divulgado na terça-feira (14), revelou a volta de um dos personagens mais icônicos da série: Nemesis. Assista aqui o vídeo. A receita de sucesso não mudou – a história e os personagens retornam, com uma jogabilidade melhorada e mais familiar para os jogadores atuais. Algumas mudanças de aparência já foram anunciadas, mas o título deve cumprir o prometido: uma experiência nostálgica. “Resident Evil 3: Remake” foi anunciado no final de 2019, mas não vai demorar para chegar nas mãos dos jogadores: a data de lançamento é 30 de abril, com versões para PlayStation 4, Xbox One e PC. O jogo tem classificação indicativa para maiores de 17 anos.",
+    "data": "2020-01-17"
+  },
+  {
+    "id": 6,
+    "image": "/images/cyberpunk.jpeg",
+    "titulo": "Cyberpunk 2077",
+    "conteudo": "Título mais esperado de 2020 pelo repórter Dave Klein, da “Game Spot”, “Cyberpunk 2077” se junta a “Marvel’s Avengers” como os jogos desta lista que não consistem em uma continuação ou remake. O site da IGN Brasil também incluiu o título na lista dos 30 games mais importantes deste ano. Um dos pontos favoráveis para essa previsão é o fato de que a CD Projekt Red é a desenvolvedora e publicadora do título, a mesma empresa responsável por produzir “The Witcher III – Wild Hunt”, que foi escolhido o jogo do ano de 2015 na premiação The Game Awards. Mas as comparações entre os títulos podem parar por aí, já que “Cyberpunk 2077” se passa em um mundo futurista e a jogabilidade se dá em primeira pessoa. Além disso, o ator Keanu Reeves fará um dos personagens na história que será lançada em 16 de abril para PlayStation 4, Xbox One e PC. Ainda não há uma classificação indicativa definida.",
+    "data": "2020-01-17"
+  }
+]

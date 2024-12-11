@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notícia em Destaque</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #dcffd4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #023700;
+            color: #FAFAFA;
+            text-align: center;
+            padding: 20px;
+            font-size: 1.8rem;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #FFF;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .news-title {
+            font-size: 1.8rem;
+            color: #121212;
+            margin-bottom: 15px;
+            text-align: start;
+        }
+
+        .news-date {
+            color: #023700;
+            font-size: 1rem;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .news-image {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .news-content {
+            font-size: 1rem;
+            line-height: 1.6;
+            text-align: justify;
+        }
+
+        footer {
+            text-align: center;
+            color: #023700;
+            font-size: 0.9rem;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+
+        @media (max-width: 480px) {
+            main {
+                width: 400px;
+                padding: 15px;
+            }
+
+            .news-title {
+                font-size: 1.5rem;
+            }
+
+            .news-content {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>A IA no clima</header>
+    <main>
+        <h1 class="news-title">Google cria GenCast, IA de previsão do tempo para até 15 dias. </h1>
+        <small>Estimativas são obtidas a partir do cruzamento de 50 ou mais previsões recentes com quatro décadas de
+            dados meteorológicos.</small>
+        <p class="news-date">10/12/2024 às 17:20</p>
+        <img src="/images/noticia.webp" alt="Imagem relacionada à notícia" class="news-image">
+        <p class="news-content">
+            O Google lançou uma nova versão de sua inteligência artificial (IA) de previsão meteorológica, o GenCast. A
+            novidade promete gerar dados precisos do clima diário e de eventos extremos com até 15 dias de antecedência.
+        </p>
+        <p class="news-content">
+            As estimativas são obtidas a partir do cruzamento de 50 ou mais previsões recentes com quatro décadas de
+            dados meteorológicos do arquivo do Centro Europeu de Previsões Meteorológicas de Médio Prazo (ECMWF) —
+            fornecendo informações mais confiáveis que as do próprio instituto, segundo a empresa.
+        </p>
+        <p class="news-content">
+            A novidade foi divulgada em uma publicação na revista científica Nature no início de dezembro com as
+            evidências da confidenciabilidade das previsões da ferramenta do Google.
+        </p>
+        <p class="news-content">
+            O GenCast usa uma IA que se adapta à geometria esférica da Terra para gerar com precisão a distribuição de
+            probabilidade de cenários climáticos futuros, conseguindo prever até catástrofes ambientais a partir de seu
+            banco de dados e da entrada de informações do clima recente.
+        </p>
+
+        <p class="news-content">
+            De acordo com o Google, a linguagem consegue encontrar um meio-termo entre as estimativas existentes, tentando 
+            evitar se basear exageradamente em previsões extremas ou subestimar informações
+        </p>
+        <p class="news-content">
+            A novidade supera o modelo anterior, o GraphCast, desenvolvido em 2023 pela empresa — já que suas previsões 
+            só chegavam aos 10 dias de antecedência.
+        </p>
+        <p class="news-content">
+            A ferramenta pode ser útil para governantes prevenirem eventos de destruição motivados pelo clima.
+        </p>
+        <p class="news-content">
+            “Previsões mais precisas de riscos de clima extremo podem ajudar autoridades a proteger mais vidas, evitar danos e
+            economizar dinheiro”, diz o comunicado à imprensa feito pela empresa.
+        </p>
+    </main>
+    <footer>© 2024 Notícias sobre IA</footer>
+</body>
+
+</html>
